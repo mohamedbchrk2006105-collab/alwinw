@@ -23,7 +23,8 @@
 ```python
 class BOUCHRIKA:
     def __init__(self):
-        self.name = "BOUCHRIKA"
+        self.name = "MOHAMED BOUCHRIKA"
+        self.age = "19"
         self.location = "🇲🇦 Morocco / المغرب"
         self.passion = "💻 Technology & Programming"
         self.learning_speed = "⚡ Fast Learner"
