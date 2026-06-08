@@ -25,7 +25,7 @@
     <polygon id="sky_right" points="723.347 0 565.821 640 1280 640 1280 0 723.347 0" fill="#74a2d6" stroke="#74a2d6" />
     <rect id="name-bg-1" y="0" width="1280" height="640" fill="#252e40" />
 
-    <!-- NAME: Alwin -->
+    <!-- NAME: BOUCHRIKA -->
     <polygon id="A-outside" class="name-outline"
         points="376.844 343.399 361.003 389.721 330.763 389.721 392.924 218.837 431.565 218.837 493.727 389.721 463.486 389.721 447.646 343.399 376.844 343.399"
         pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" />
@@ -45,7 +45,7 @@
         d="M933.88,315.08v74.64H906.52V317.48c0-21.84-9.36-30.48-24.72-30.48C866.2,287,854,298.76,854,322v67.68H826.6V267.8h25.92v15.84H853a43.52,43.52,0,0,1,36.48-18.72C917.08,264.92,933.88,281.72,933.88,315.08Z"
         transform="translate(0 2.5)" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" />
 
-    <!-- INITIAL: Flash Alwin for image preview and browsers that don't support animation -->
+    <!-- INITIAL: Flash BOUCHRIKA for image preview and browsers that don't support animation -->
     <animate href="#A-full" attributeName="fill" values="transparent" dur="1s" fill="freeze" begin="0" />
     <animate href="#l" attributeName="fill" values="transparent" dur="1s" fill="freeze" begin="0" />
     <animate href="#w" attributeName="fill" values="transparent" dur="1s" fill="freeze" begin="0" />
